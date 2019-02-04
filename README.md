@@ -2,6 +2,8 @@
 ---
 https://github.com/pozadi/kefir
 
+https://kefirjs.github.io/kefir/
+
 ```
 npm install kefir
 bower install kefir
